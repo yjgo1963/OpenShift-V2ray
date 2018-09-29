@@ -10,5 +10,7 @@ Docker 镜像搜索：wangfeng769/openshift
 
 youtube频道：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 
+youtube教程：https://www.youtube.com/watch?v=s83EXZbb8vQ
+
 图文教程：https://docs.google.com/document/d/17lLmEk3pp-IyNqqdtE100_0gpBwIetj71kwYzRrh4a4/edit?usp=sharing
 
