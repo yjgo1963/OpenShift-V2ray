@@ -1,4 +1,4 @@
-v2ray 部署在 openshift starter
+ v2ray 部署在 openshift starter
 
 Docker 镜像搜索：wangfeng769/openshift
 
@@ -11,3 +11,4 @@ Docker 镜像搜索：wangfeng769/openshift
 youtube频道：https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg
 
 图文教程：https://docs.google.com/document/d/17lLmEk3pp-IyNqqdtE100_0gpBwIetj71kwYzRrh4a4/edit?usp=sharing
+
